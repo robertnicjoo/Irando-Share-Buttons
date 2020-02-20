@@ -1,0 +1,62 @@
+{
+  "_from": "@irando/irando-share-buttons",
+  "_id": "@irando/irando-share-buttons@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-OOa7fxNuS+uHKOh1i12OD0Q30Jk1x63VSihHjqLrVrOs3oAfnbCvpXdKv2w32VwcYynEfrjoSD8IPZUdj9L/0g==",
+  "_location": "/@irando/irando-share-buttons",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@irando/irando-share-buttons",
+    "name": "@irando/irando-share-buttons",
+    "escapedName": "@irando%2firando-share-buttons",
+    "scope": "@irando",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@irando/irando-share-buttons/-/irando-share-buttons-1.0.4.tgz",
+  "_shasum": "461138b55e6778a1a412b3fd180cff0de6073bab",
+  "_spec": "@irando/irando-share-buttons",
+  "_where": "C:\\Users\\IRANDO\\Desktop\\New folder (2)",
+  "author": {
+    "name": "Robert Nicjoo",
+    "email": "robert@irando.co.id",
+    "url": "https://irando.co.id"
+  },
+  "bugs": {
+    "url": "https://github.com/robertnicjoo/Irando-Share-Buttons/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "This package provides you easy to use css classes to create share buttons.",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1"
+  },
+  "homepage": "https://github.com/robertnicjoo/Irando-Share-Buttons.git",
+  "keywords": [
+    "irando",
+    "cv.irando",
+    "share",
+    "button",
+    "css",
+    "html"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@irando/irando-share-buttons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertnicjoo/Irando-Share-Buttons.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
